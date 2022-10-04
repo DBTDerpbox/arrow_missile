@@ -9,4 +9,10 @@ Join at: minigames.derpbox.xyz
 
 Note map not out yet
 
-thanks to Emmie this datapack actualy runs!
+
+## Credits
+
+* [Opextwo](https://github.com/Opextwo) - Creating the datapack
+
+* [Emmie](https://github.com/DBTDerpbox) - Helping out with some issues
+
